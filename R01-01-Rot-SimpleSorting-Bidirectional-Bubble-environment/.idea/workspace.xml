@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6118f57e-f04a-48cb-aa7f-fe0fdc9c26dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hp74ex7fiJyvy3xTC87BIB2eaE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.StudentSortingTest">
+    <configuration name="StudentSortingTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sorting.test" />
+      <option name="MAIN_CLASS_NAME" value="sorting.test.StudentSortingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentSortingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sorting.test" />
+      <option name="MAIN_CLASS_NAME" value="sorting.test.StudentSortingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentSortingTest.testSort01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sorting.test" />
+      <option name="MAIN_CLASS_NAME" value="sorting.test.StudentSortingTest" />
+      <option name="METHOD_NAME" value="testSort01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentSortingTest.testSort03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sorting.test" />
+      <option name="MAIN_CLASS_NAME" value="sorting.test.StudentSortingTest" />
+      <option name="METHOD_NAME" value="testSort03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentSortingTest.testSortMetadeInicial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sorting.test" />
+      <option name="MAIN_CLASS_NAME" value="sorting.test.StudentSortingTest" />
+      <option name="METHOD_NAME" value="testSortMetadeInicial" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentSortingTest" />
+        <item itemvalue="JUnit.StudentSortingTest.testSortMetadeInicial" />
+        <item itemvalue="JUnit.StudentSortingTest.testSort03" />
+        <item itemvalue="JUnit.StudentSortingTest.testSort01" />
+        <item itemvalue="Android JUnit.StudentSortingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6118f57e-f04a-48cb-aa7f-fe0fdc9c26dd" name="Default Changelist" comment="" />
+      <created>1600695989642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600695989642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1600906605145">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600906605145" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601068252111">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601068252111" />
+    <state width="1807" height="353" key="GridCell.Tab.0.bottom" timestamp="1601570817346">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="353" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601570817346" />
+    <state width="1807" height="353" key="GridCell.Tab.0.center" timestamp="1601570817345">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="353" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601570817345" />
+    <state width="1807" height="353" key="GridCell.Tab.0.left" timestamp="1601570817345">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="353" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601570817345" />
+    <state width="1807" height="353" key="GridCell.Tab.0.right" timestamp="1601570817346">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="353" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601570817346" />
+    <state width="1807" height="353" key="GridCell.Tab.1.bottom" timestamp="1601570817348">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="353" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1601570817348" />
+    <state width="1807" height="353" key="GridCell.Tab.1.center" timestamp="1601570817347">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="353" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1601570817347" />
+    <state width="1807" height="353" key="GridCell.Tab.1.left" timestamp="1601570817346">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="353" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1601570817346" />
+    <state width="1807" height="353" key="GridCell.Tab.1.right" timestamp="1601570817347">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="353" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1601570817347" />
+  </component>
+</project>

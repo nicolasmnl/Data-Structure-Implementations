@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-06T12:19:21.190-0300</date>
+  <logger>NICOLAS MOREIRA NOBRE LEITE</logger>
+  <level>FINE</level>
+  <message>File 119110256-NICOLAS MOREIRA NOBRE LEITE.zip was received. It was sent by NICOLAS MOREIRA NOBRE LEITE from IP 192.168.0.92 at 06-10-2020 12*19*21</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-09T10:54:51.801-0300</date>
+  <logger>NICOLAS MOREIRA NOBRE LEITE</logger>
+  <level>FINE</level>
+  <message>File 119110256-NICOLAS MOREIRA NOBRE LEITE.zip was received. It was sent by NICOLAS MOREIRA NOBRE LEITE from IP 192.168.0.92 at 09-10-2020 10*54*51</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-09T11:47:21.294-0300</date>
+  <logger>NICOLAS MOREIRA NOBRE LEITE</logger>
+  <level>FINE</level>
+  <message>File 119110256-NICOLAS MOREIRA NOBRE LEITE.zip was received. It was sent by NICOLAS MOREIRA NOBRE LEITE from IP 192.168.0.92 at 09-10-2020 11*47*21</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-11T18:32:38.040-0300</date>
+  <logger>NICOLAS MOREIRA NOBRE LEITE</logger>
+  <level>FINE</level>
+  <message>File 119110256-NICOLAS MOREIRA NOBRE LEITE.zip was received. It was sent by NICOLAS MOREIRA NOBRE LEITE from IP 192.168.0.92 at 11-10-2020 18*32*38</message>
+</record>

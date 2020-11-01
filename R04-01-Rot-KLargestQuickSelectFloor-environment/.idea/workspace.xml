@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a11a1b9-8f64-41cf-a4db-ef2738f4ea41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ipf15U8ttHxDpvKWJKZkBxzHg9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../R05-01-Rot-TAD-Linear-environment" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="orderStatistic" />
+      <recent name="quickSelect" />
+      <recent name="binarysearchtest" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FloorBinarySearchImplTest">
+    <configuration name="FloorBinarySearchImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarysearchtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="binarysearchtest" />
+      <option name="MAIN_CLASS_NAME" value="binarysearchtest.FloorBinarySearchImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KLargestOrderStatisticsImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orderStatistic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="orderStatistic" />
+      <option name="MAIN_CLASS_NAME" value="orderStatistic.KLargestOrderStatisticsImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSelectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="orderStatistic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="orderStatistic" />
+      <option name="MAIN_CLASS_NAME" value="orderStatistic.QuickSelectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FloorBinarySearchImplTest" />
+        <item itemvalue="JUnit.KLargestOrderStatisticsImplTest" />
+        <item itemvalue="JUnit.QuickSelectTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a11a1b9-8f64-41cf-a4db-ef2738f4ea41" name="Default Changelist" comment="" />
+      <created>1602609235103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602609235103</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="330" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1602770124752">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="722" y="330" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1602770124752" />
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1603215734758">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1603215734758" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1603204795762">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603204795762" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1603204795761">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603204795761" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1603204795761">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603204795761" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1603204795761">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603204795761" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1602879352210">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1602879352210" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1602879352210">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1602879352210" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1602879352210">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1602879352210" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1602879352210">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1602879352210" />
+    <state x="734" y="227" width="509" height="650" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602859209709">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="734" y="227" width="509" height="650" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1602859209709" />
+    <state x="302" y="153" width="1372" height="799" key="new project wizard" timestamp="1602625540713">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="153" width="1372" height="799" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1602625540713" />
+    <state x="689" y="181" width="598" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1602610041561">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="689" y="181" width="598" height="743" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1602610041561" />
+  </component>
+</project>

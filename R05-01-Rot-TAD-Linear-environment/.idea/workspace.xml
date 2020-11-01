@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab388428-34a3-417d-a9a8-b67dcc8e65cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j9UKNQcD3K6p74zccXbKpEiBzN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Grafos_20203/Graph-EPG02" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="adt.queue" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentStackTest">
+    <configuration name="StudentCircularQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adt.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adt.queue" />
+      <option name="MAIN_CLASS_NAME" value="adt.queue.StudentCircularQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adt.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adt.queue" />
+      <option name="MAIN_CLASS_NAME" value="adt.queue.StudentQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentQueueUsingStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adt.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adt.queue" />
+      <option name="MAIN_CLASS_NAME" value="adt.queue.StudentQueueUsingStackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adt.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adt.stack" />
+      <option name="MAIN_CLASS_NAME" value="adt.stack.StudentStackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentStackTest.testStackSizeZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adt.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adt.stack" />
+      <option name="MAIN_CLASS_NAME" value="adt.stack.StudentStackTest" />
+      <option name="METHOD_NAME" value="testStackSizeZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentStackTest" />
+        <item itemvalue="JUnit.StudentQueueTest" />
+        <item itemvalue="JUnit.StudentStackTest.testStackSizeZero" />
+        <item itemvalue="JUnit.StudentQueueUsingStackTest" />
+        <item itemvalue="JUnit.StudentCircularQueueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab388428-34a3-417d-a9a8-b67dcc8e65cf" name="Default Changelist" comment="" />
+      <created>1603215735063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603215735063</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603712319939">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1603712319939" />
+    <state width="1807" height="207" key="GridCell.Tab.0.bottom" timestamp="1603897412463">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="207" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603897412463" />
+    <state width="1807" height="207" key="GridCell.Tab.0.center" timestamp="1603897412462">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="207" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603897412462" />
+    <state width="1807" height="207" key="GridCell.Tab.0.left" timestamp="1603897412462">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="207" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603897412462" />
+    <state width="1807" height="207" key="GridCell.Tab.0.right" timestamp="1603897412463">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="207" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603897412463" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1603711905895">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1603711905895" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1603711905894">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1603711905894" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1603711905894">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1603711905894" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1603711905895">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1603711905895" />
+    <state x="734" y="227" width="507" height="650" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603459584693">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="734" y="227" width="507" height="650" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1603459584693" />
+    <state x="302" y="153" width="1372" height="799" key="new project wizard" timestamp="1603464526185">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="153" width="1372" height="799" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1603464526185" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1603461484878">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1603461484878" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/adt/queue/StudentQueueTest.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
